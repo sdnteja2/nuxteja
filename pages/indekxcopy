@@ -1,0 +1,28 @@
+// <template>
+//   <div class="">
+//     <NavBar />
+//     <Hero />
+//     <!-- <Guru />
+//     <Prestasi />
+//     <Faq />
+//     <Patner /> -->
+//     <Footer />
+//   </div>
+// </template>
+
+// <script>
+// import { useStoryApi, useStoryBridge } from "@storyblok/nuxt-2/composables";
+// import NavBar from "../components/NavBar.vue"
+// import Hero from "../components/Hero.vue";
+// import Guru from "../components/Guru.vue";
+// import Faq from "../components/Faq.vue";
+// import Prestasi from "../components/Prestasi.vue";
+// import Footer from "../components/Footer.vue";
+// import Patner from "../components/Patner.vue";
+// import { from } from "webpack-sources/lib/CompatSource";
+
+// export default {
+//   name: "IndexPage",
+//   components: { NavBar, Hero, Guru, Faq, Prestasi, Footer, Patner },
+// };
+// </script>
